@@ -1,0 +1,12 @@
+{
+	"Id" : "Plan17ResourcesPlanadoc",
+	"Name" : "Plana的职业文档",
+	"Author" : "Plana 客串 小巾",
+	"Description" : "",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency": [
+		"Plan17ResourcesPlana"
+	],
+	"Hidden" : False
+}
